@@ -118,5 +118,4 @@ This project was built as a focused learning exercise to understand:
 
 This project is for **educational purposes only**.
 
-```
 
