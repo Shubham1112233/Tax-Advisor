@@ -29,6 +29,11 @@ A simplified **tax advisor web application** built with **Next.js App Router**, 
 
 ---
 
+## 📌 Screenshot
+
+<img width="928" height="894" alt="image" src="https://github.com/user-attachments/assets/a366429b-25c7-41f1-909e-7f9cb3045ca3" />
+
+
 ## 📌 Application Overview
 
 The application allows users to enter basic tax-related information such as:
