@@ -15,10 +15,10 @@ A simplified **tax advisor web application** built with **Next.js App Router**, 
 - **Tailwind CSS** – Minimal styling
 - **Zod** – Runtime schema validation for user input and API responses
 
-
 ---
 
 ## Screenshot
+
 ![App Screenshot](./SS.png)
 
 
@@ -32,10 +32,6 @@ A simplified **tax advisor web application** built with **Next.js App Router**, 
 - Type-safe design using **TypeScript**
 
 ---
-
-## Screenshot
-
-![App Screenshot](./SS.png)
 
 
 
