@@ -36,7 +36,7 @@ export default function Home() {
         />
       </div>
 
-      <div className="flex items-center gap-2 mb-6 w-80">
+      <div className="flex flex-col items-center gap-2 mb-6 w-80">
         <label className="text-gray-700 font-medium">Tax Class:</label>
         <select
           className="px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-400 transition-all flex-1"

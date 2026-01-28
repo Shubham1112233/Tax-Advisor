@@ -18,6 +18,10 @@ A simplified **tax advisor web application** built with **Next.js App Router**, 
 
 ---
 
+## Screenshot
+![App Screenshot](./SS.png)
+
+
 ##  What This Project Demonstrates
 
 - **Clear separation of client state and server state**
