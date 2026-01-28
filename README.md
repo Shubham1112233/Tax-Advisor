@@ -95,27 +95,7 @@ Open **[http://localhost:3000](http://localhost:3000)** in your browser.
 
 ---
 
-## ⚠️ Important Notes
 
-* Tax calculations are **not legally accurate**
-* This project focuses on **frontend architecture and state management**
-* No authentication or database is implemented
 
----
-
-## 📚 Learning Focus
-
-This project was built as a focused learning exercise to understand:
-
-* Modern **Next.js App Router** patterns
-* **Global state vs server state**
-* **Derived state** and pure functions
-* Scalable frontend application design
-
----
-
-## 📄 License
-
-This project is for **educational purposes only**.
 
 
