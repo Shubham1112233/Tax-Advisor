@@ -76,33 +76,6 @@ The application follows a clean and scalable architecture:
 
 ---
 
-## 📂 Folder Structure
-
-```
-
-src/
-├─ app/
-│  ├─ api/
-│  │  └─ tax-rules/
-│  │     └─ route.ts
-│  ├─ layout.tsx
-│  ├─ page.tsx
-│  └─ providers.tsx
-│
-├─ lib/
-│  ├─ api/
-│  │  └─ taxRules.ts
-│  ├─ store/
-│  │  └─ taxStore.ts
-│  ├─ types/
-│  │  └─ tax.ts
-│  └─ utils/
-│     └─ calculateTax.ts
-
-````
-
----
-
 ##  Getting Started
 
 ### Install dependencies
