@@ -29,9 +29,9 @@ A simplified **tax advisor web application** built with **Next.js App Router**, 
 
 ---
 
-## 📌 Screenshot
+## Screenshot
 
-<img width="928" height="894" alt="Screenshot 2026-01-28 165235" src="https://github.com/user-attachments/assets/b7ff4f93-7620-4aac-aa12-edb33f3aafcb" />
+![App Screenshot](./SS.png)
 
 
 
